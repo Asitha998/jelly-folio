@@ -1,0 +1,6 @@
+{
+  "name": "Liquid Glass Portfolio",
+  "description": "Software engineering portfolio featuring clean Apple aesthetics, liquid glass optics, responsive jelly micro-interactions, and synthesized audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
